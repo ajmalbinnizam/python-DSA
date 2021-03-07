@@ -31,10 +31,10 @@ c = [x for x in a if x%2==0]
 print(c)
 
 
-#-----Reduce(fun, seq)
-from functools import reduce
-a = [1,2,3,4,5,6]
-product_a = reduce(lambda x,y: x*y, a)
-print(product_a)
-c = [x for x in a ]
-print(a)
+# #-----Reduce(fun, seq)
+# from functools import reduce
+# a = [1,2,3,4,5,6]
+# product_a = reduce(lambda x,y: x*y, a)
+# print(product_a)
+# c = [x for x in a ]
+# print(a)

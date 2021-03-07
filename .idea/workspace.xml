@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666e6a66-79c7-4dc4-85e2-a22985ba794f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/begin/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/collector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lambda.py" afterDir="false" />
+    <list default="true" id="666e6a66-79c7-4dc4-85e2-a22985ba794f" name="Default Changelist" comment="2:04 upto exceptions">
+      <change afterPath="$PROJECT_DIR$/begin/OOPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/begin/ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/begin/code recall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/begin/kwarg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/begin/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/begin/miscelleanious.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/begin/pattern break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/OOPS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/River.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/collector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/poops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/scratch_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/scratch_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/scratch_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/scratch_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python telusko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python telusko.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/begin/str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/begin/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code recall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kwarg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miscelleanious.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/collector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lambda.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +60,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -40,8 +71,8 @@
       <recent name="C:\Users\Lenovo\PycharmProjects\python telusko\begin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lambda">
-    <configuration name="collector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.triangle">
+    <configuration name="OOPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python telusko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/collector.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa/OOPS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +93,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python telusko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python telusko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/dict.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,28 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python telusko" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/lambda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python telusko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/set.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python telusko" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begin/str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops/triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lambda" />
-        <item itemvalue="Python.collector" />
-        <item itemvalue="Python.str" />
-        <item itemvalue="Python.set" />
-        <item itemvalue="Python.dict" />
+        <item itemvalue="Python.triangle" />
+        <item itemvalue="Python.scratch_4" />
+        <item itemvalue="Python.scratch_3" />
+        <item itemvalue="Python.OOPS" />
+        <item itemvalue="Python.exception" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +198,14 @@
       <option name="presentableId" value="Default" />
       <updated>1592760540390</updated>
     </task>
+    <task id="LOCAL-00001" summary="2:04 upto exceptions">
+      <created>1614945429781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614945429781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,58 +220,75 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2:04 upto exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="2:04 upto exceptions" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1344" height="139" key="GridCell.Tab.0.bottom" timestamp="1614945304306">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1614945452541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614945304306" />
-    <state width="1344" height="139" key="GridCell.Tab.0.center" timestamp="1614945304306">
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614945452541" />
+    <state width="1344" height="132" key="GridCell.Tab.0.bottom" timestamp="1615104858842">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614945304306" />
-    <state width="1344" height="139" key="GridCell.Tab.0.left" timestamp="1614945304306">
+    <state width="1344" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615104858842" />
+    <state width="1344" height="132" key="GridCell.Tab.0.center" timestamp="1615104858841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614945304306" />
-    <state width="1344" height="139" key="GridCell.Tab.0.right" timestamp="1614945304306">
+    <state width="1344" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615104858841" />
+    <state width="1344" height="132" key="GridCell.Tab.0.left" timestamp="1615104858841">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614945304306" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom" timestamp="1614926169248">
+    <state width="1344" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615104858841" />
+    <state width="1344" height="132" key="GridCell.Tab.0.right" timestamp="1615104858842">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614926169248" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center" timestamp="1614926169247">
+    <state width="1344" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615104858842" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614926169247" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left" timestamp="1614926377768">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614926377768" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right" timestamp="1614926169247">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left" timestamp="1615096327496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614926169247" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.bottom" timestamp="1614926169179">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1615096327496" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614926169179" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.center" timestamp="1614926169178">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.bottom" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1614926169178" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.left" timestamp="1614926169178">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.center" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1614926169178" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right" timestamp="1614926169179">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.left" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1614926169179" />
-    <state x="867" y="266" width="461" height="216" key="dock-window-1" timestamp="1614926378354">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="461" height="216" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1614926378354" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
+    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614945467831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1614945467831" />
+    <state x="867" y="266" width="461" height="216" key="dock-window-1" timestamp="1615096389282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="867" y="266" width="461" height="216" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1615096389282" />
+    <state x="0" y="133" width="1085" height="629" key="dock-window-2" timestamp="1615102659888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="133" width="1085" height="629" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1615102659888" />
   </component>
 </project>

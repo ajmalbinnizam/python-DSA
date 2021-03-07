@@ -9,16 +9,16 @@
 #     i=i-1
 #     print()
 
-i=1
-j=1
-while i<= 5:
-    print('*',end="")
-    j=1
-    while j<= 5:
-        print('#',end="")
-        j=j+1
-    i=i+1
-    print()
+# i=1
+# j=1
+# while i<= 5:
+#     print('*',end="")
+#     j=1
+#     while j<= 5:
+#         print('#',end="")
+#         j=j+1
+#     i=i+1
+#     print()
 #
  #to print  upto 100 div by 3 and 5
 
@@ -28,4 +28,23 @@ while i<= 5:
 #     if (i%3!=0 and i%5!=0):
 #         print(i)
 #     i=i+1
+number = 5.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
