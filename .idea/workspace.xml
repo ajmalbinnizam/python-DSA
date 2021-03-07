@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="666e6a66-79c7-4dc4-85e2-a22985ba794f" name="Default Changelist" comment="2:04 upto exceptions">
-      <change afterPath="$PROJECT_DIR$/begin/OOPS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begin/ab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begin/code recall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begin/kwarg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begin/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begin/miscelleanious.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begin/pattern break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa/OOPS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/River.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/collector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/poops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/scratch_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/scratch_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/scratch_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/scratch_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python telusko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python telusko.iml" afterDir="false" />
+    <list default="true" id="666e6a66-79c7-4dc4-85e2-a22985ba794f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/begin/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/begin/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code recall.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kwarg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miscelleanious.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern break.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/poops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/collector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lambda.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614945429781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oops definitions">
+      <created>1615105039847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615105039847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,29 +216,30 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2:04 upto exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="2:04 upto exceptions" />
+    <MESSAGE value="oops definitions" />
+    <option name="LAST_COMMIT_MESSAGE" value="oops definitions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1614945452541">
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1615105035683">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1614945452541" />
-    <state width="1344" height="132" key="GridCell.Tab.0.bottom" timestamp="1615104858842">
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615105035683" />
+    <state width="1344" height="132" key="GridCell.Tab.0.bottom" timestamp="1615105138468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615104858842" />
-    <state width="1344" height="132" key="GridCell.Tab.0.center" timestamp="1615104858841">
+    <state width="1344" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
+    <state width="1344" height="132" key="GridCell.Tab.0.center" timestamp="1615105138468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615104858841" />
-    <state width="1344" height="132" key="GridCell.Tab.0.left" timestamp="1615104858841">
+    <state width="1344" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
+    <state width="1344" height="132" key="GridCell.Tab.0.left" timestamp="1615105138468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615104858841" />
-    <state width="1344" height="132" key="GridCell.Tab.0.right" timestamp="1615104858842">
+    <state width="1344" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
+    <state width="1344" height="132" key="GridCell.Tab.0.right" timestamp="1615105138468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615104858842" />
+    <state width="1344" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
     <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -254,10 +248,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left" timestamp="1615096327496">
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left" timestamp="1615105138401">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1615096327496" />
+    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1615105138401" />
     <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right" timestamp="1615096327480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -278,10 +272,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614945467831">
+    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615105103147">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1614945467831" />
+    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1615105103147" />
     <state x="867" y="266" width="461" height="216" key="dock-window-1" timestamp="1615096389282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
