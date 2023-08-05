@@ -1,6 +1,6 @@
 
 
-def sort (num):
+def sort(num):
     for i in range(5):
         minpos=i
         for j in range(i,6):

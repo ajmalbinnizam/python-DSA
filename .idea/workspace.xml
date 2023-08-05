@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666e6a66-79c7-4dc4-85e2-a22985ba794f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA - 2023/BigO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python telusko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python telusko.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/begin/array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/selection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ddgmAc6NMsKEe4MUCvGLWyhuc9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,13 +56,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/.D/_DSA",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\PycharmProjects\python telusko\begin" />
@@ -173,6 +185,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -211,78 +224,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2:04 upto exceptions" />
     <MESSAGE value="oops definitions" />
     <option name="LAST_COMMIT_MESSAGE" value="oops definitions" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1615105035683">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1615105035683" />
-    <state width="1344" height="132" key="GridCell.Tab.0.bottom" timestamp="1615105138468">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
-    <state width="1344" height="132" key="GridCell.Tab.0.center" timestamp="1615105138468">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
-    <state width="1344" height="132" key="GridCell.Tab.0.left" timestamp="1615105138468">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
-    <state width="1344" height="132" key="GridCell.Tab.0.right" timestamp="1615105138468">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1344" height="132" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615105138468" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left" timestamp="1615105138401">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1615105138401" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.bottom" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.center" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.left" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right" timestamp="1615096327480">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="445" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1615096327480" />
-    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615105103147">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="476" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1615105103147" />
-    <state x="867" y="266" width="461" height="216" key="dock-window-1" timestamp="1615096389282">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="867" y="266" width="461" height="216" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1615096389282" />
-    <state x="0" y="133" width="1085" height="629" key="dock-window-2" timestamp="1615102659888">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="0" y="133" width="1085" height="629" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1615102659888" />
   </component>
 </project>

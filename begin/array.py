@@ -1,3 +1,5 @@
+from array import array
+
 from array import *
 # val = array('i',[-5,7,8,2,6])
 # vals=array('u',['a','b','c','d'])
